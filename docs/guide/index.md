@@ -17,7 +17,7 @@ title: Intro
 A short explaination of the main groups of this documentation:
 
 + [Installation](installation/): Here you can find everything about installation, setup, config, cloud and docker content
-+ Key Concepts: Certain LUYA specific things like the Deployment and Sync Process or Components exklusive developled for LUYA
++ Key Concepts: Certain LUYA specific things like the Deployment and Sync Process or Components exklusively developled for LUYA
 + Application: Generall Questions for your LUYA Application: Langauges, Storage System, Security, Themes, Queue
 + CMS: All CMS related things. How to make Menus, developing blocks, page properties or cms layouts.
 + Frontend Module: In A Yii Framework context those are modules for frontend logic, news system, gallery, blog, whatever
